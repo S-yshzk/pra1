@@ -7,7 +7,7 @@ myImage.onclick = function() {
   if(mySrc === 'images/pr1') {
     myImage.setAttribute ('src','images/pr1_2.png');
   } else {
-    myImage.setAttribute ('src','images/pr1.png');
+    myImage.setAttribute ('src','images/pr1');
   }
 }
 
